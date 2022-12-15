@@ -1,0 +1,17 @@
+.user{
+    display: flex;
+    flex-direction: column;
+    height: max-content;
+}
+
+.user-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 3%;
+    
+}
+.main-container{
+
+    margin: 2%;
+}
